@@ -1,0 +1,240 @@
+[
+    {
+        "run_number": 10666, 
+        "job_id": 1, 
+        "ecal_hit_ecut": -1.0, 
+        "steering_files": {
+            "recon": "/org/hps/steering/recon/PhysicsRun2019MCRecon.lcsim", 
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigPulse.lcsim"
+        }, 
+        "output_dir": "output/hpsForward_e-_4.5GeV_z-7.5/HPS-PhysicsRun2019-v1-4pt5/recon", 
+        "detector": "HPS-PhysicsRun2019-v1-4pt5", 
+        "input_files": {
+            "/nfs/slac/g/hps_data2/mc/2019/samplingFractionSet/p2/hpsForward_e-_4.5GeV_z-7.5_10_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio": "events.slcio"
+        }, 
+        "output_files": {
+            "events_filt_readout_recon.slcio": "hpsForward_e-_4.5GeV_z-7.5_0001.slcio"
+        }
+    }, 
+    {
+        "run_number": 10666, 
+        "job_id": 2, 
+        "ecal_hit_ecut": -1.0, 
+        "steering_files": {
+            "recon": "/org/hps/steering/recon/PhysicsRun2019MCRecon.lcsim", 
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigPulse.lcsim"
+        }, 
+        "output_dir": "output/hpsForward_e-_4.5GeV_z-7.5/HPS-PhysicsRun2019-v1-4pt5/recon", 
+        "detector": "HPS-PhysicsRun2019-v1-4pt5", 
+        "input_files": {
+            "/nfs/slac/g/hps_data2/mc/2019/samplingFractionSet/p2/hpsForward_e-_4.5GeV_z-7.5_11_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio": "events.slcio"
+        }, 
+        "output_files": {
+            "events_filt_readout_recon.slcio": "hpsForward_e-_4.5GeV_z-7.5_0002.slcio"
+        }
+    }, 
+    {
+        "run_number": 10666, 
+        "job_id": 3, 
+        "ecal_hit_ecut": -1.0, 
+        "steering_files": {
+            "recon": "/org/hps/steering/recon/PhysicsRun2019MCRecon.lcsim", 
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigPulse.lcsim"
+        }, 
+        "output_dir": "output/hpsForward_e-_4.5GeV_z-7.5/HPS-PhysicsRun2019-v1-4pt5/recon", 
+        "detector": "HPS-PhysicsRun2019-v1-4pt5", 
+        "input_files": {
+            "/nfs/slac/g/hps_data2/mc/2019/samplingFractionSet/p2/hpsForward_e-_4.5GeV_z-7.5_6_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio": "events.slcio"
+        }, 
+        "output_files": {
+            "events_filt_readout_recon.slcio": "hpsForward_e-_4.5GeV_z-7.5_0003.slcio"
+        }
+    }, 
+    {
+        "run_number": 10666, 
+        "job_id": 4, 
+        "ecal_hit_ecut": -1.0, 
+        "steering_files": {
+            "recon": "/org/hps/steering/recon/PhysicsRun2019MCRecon.lcsim", 
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigPulse.lcsim"
+        }, 
+        "output_dir": "output/hpsForward_e-_4.5GeV_z-7.5/HPS-PhysicsRun2019-v1-4pt5/recon", 
+        "detector": "HPS-PhysicsRun2019-v1-4pt5", 
+        "input_files": {
+            "/nfs/slac/g/hps_data2/mc/2019/samplingFractionSet/p2/hpsForward_e-_4.5GeV_z-7.5_7_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio": "events.slcio"
+        }, 
+        "output_files": {
+            "events_filt_readout_recon.slcio": "hpsForward_e-_4.5GeV_z-7.5_0004.slcio"
+        }
+    }, 
+    {
+        "run_number": 10666, 
+        "job_id": 5, 
+        "ecal_hit_ecut": -1.0, 
+        "steering_files": {
+            "recon": "/org/hps/steering/recon/PhysicsRun2019MCRecon.lcsim", 
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigPulse.lcsim"
+        }, 
+        "output_dir": "output/hpsForward_e-_4.5GeV_z-7.5/HPS-PhysicsRun2019-v1-4pt5/recon", 
+        "detector": "HPS-PhysicsRun2019-v1-4pt5", 
+        "input_files": {
+            "/nfs/slac/g/hps_data2/mc/2019/samplingFractionSet/p2/hpsForward_e-_4.5GeV_z-7.5_8_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio": "events.slcio"
+        }, 
+        "output_files": {
+            "events_filt_readout_recon.slcio": "hpsForward_e-_4.5GeV_z-7.5_0005.slcio"
+        }
+    }, 
+    {
+        "run_number": 10666, 
+        "job_id": 6, 
+        "ecal_hit_ecut": -1.0, 
+        "steering_files": {
+            "recon": "/org/hps/steering/recon/PhysicsRun2019MCRecon.lcsim", 
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigPulse.lcsim"
+        }, 
+        "output_dir": "output/hpsForward_e-_4.5GeV_z-7.5/HPS-PhysicsRun2019-v1-4pt5/recon", 
+        "detector": "HPS-PhysicsRun2019-v1-4pt5", 
+        "input_files": {
+            "/nfs/slac/g/hps_data2/mc/2019/samplingFractionSet/p2/hpsForward_e-_4.5GeV_z-7.5_9_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio": "events.slcio"
+        }, 
+        "output_files": {
+            "events_filt_readout_recon.slcio": "hpsForward_e-_4.5GeV_z-7.5_0006.slcio"
+        }
+    }, 
+    {
+        "run_number": 10666, 
+        "job_id": 7, 
+        "ecal_hit_ecut": -1.0, 
+        "steering_files": {
+            "recon": "/org/hps/steering/recon/PhysicsRun2019MCRecon.lcsim", 
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigPulse.lcsim"
+        }, 
+        "output_dir": "output/hpsForward_e-_4.5GeV_z-7.5/HPS-PhysicsRun2019-v1-4pt5/recon", 
+        "detector": "HPS-PhysicsRun2019-v1-4pt5", 
+        "input_files": {
+            "/nfs/slac/g/hps_data2/mc/2019/samplingFractionSet/p3/hpsForward_e-_4.5GeV_z-7.5_12_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio": "events.slcio"
+        }, 
+        "output_files": {
+            "events_filt_readout_recon.slcio": "hpsForward_e-_4.5GeV_z-7.5_0007.slcio"
+        }
+    }, 
+    {
+        "run_number": 10666, 
+        "job_id": 8, 
+        "ecal_hit_ecut": -1.0, 
+        "steering_files": {
+            "recon": "/org/hps/steering/recon/PhysicsRun2019MCRecon.lcsim", 
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigPulse.lcsim"
+        }, 
+        "output_dir": "output/hpsForward_e-_4.5GeV_z-7.5/HPS-PhysicsRun2019-v1-4pt5/recon", 
+        "detector": "HPS-PhysicsRun2019-v1-4pt5", 
+        "input_files": {
+            "/nfs/slac/g/hps_data2/mc/2019/samplingFractionSet/p3/hpsForward_e-_4.5GeV_z-7.5_13_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio": "events.slcio"
+        }, 
+        "output_files": {
+            "events_filt_readout_recon.slcio": "hpsForward_e-_4.5GeV_z-7.5_0008.slcio"
+        }
+    }, 
+    {
+        "run_number": 10666, 
+        "job_id": 9, 
+        "ecal_hit_ecut": -1.0, 
+        "steering_files": {
+            "recon": "/org/hps/steering/recon/PhysicsRun2019MCRecon.lcsim", 
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigPulse.lcsim"
+        }, 
+        "output_dir": "output/hpsForward_e-_4.5GeV_z-7.5/HPS-PhysicsRun2019-v1-4pt5/recon", 
+        "detector": "HPS-PhysicsRun2019-v1-4pt5", 
+        "input_files": {
+            "/nfs/slac/g/hps_data2/mc/2019/samplingFractionSet/p3/hpsForward_e-_4.5GeV_z-7.5_14_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio": "events.slcio"
+        }, 
+        "output_files": {
+            "events_filt_readout_recon.slcio": "hpsForward_e-_4.5GeV_z-7.5_0009.slcio"
+        }
+    }, 
+    {
+        "run_number": 10666, 
+        "job_id": 10, 
+        "ecal_hit_ecut": -1.0, 
+        "steering_files": {
+            "recon": "/org/hps/steering/recon/PhysicsRun2019MCRecon.lcsim", 
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigPulse.lcsim"
+        }, 
+        "output_dir": "output/hpsForward_e-_4.5GeV_z-7.5/HPS-PhysicsRun2019-v1-4pt5/recon", 
+        "detector": "HPS-PhysicsRun2019-v1-4pt5", 
+        "input_files": {
+            "/nfs/slac/g/hps_data2/mc/2019/samplingFractionSet/p3/hpsForward_e-_4.5GeV_z-7.5_15_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio": "events.slcio"
+        }, 
+        "output_files": {
+            "events_filt_readout_recon.slcio": "hpsForward_e-_4.5GeV_z-7.5_0010.slcio"
+        }
+    }, 
+    {
+        "run_number": 10666, 
+        "job_id": 11, 
+        "ecal_hit_ecut": -1.0, 
+        "steering_files": {
+            "recon": "/org/hps/steering/recon/PhysicsRun2019MCRecon.lcsim", 
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigPulse.lcsim"
+        }, 
+        "output_dir": "output/hpsForward_e-_4.5GeV_z-7.5/HPS-PhysicsRun2019-v1-4pt5/recon", 
+        "detector": "HPS-PhysicsRun2019-v1-4pt5", 
+        "input_files": {
+            "/nfs/slac/g/hps_data2/mc/2019/samplingFractionSet/p3/hpsForward_e-_4.5GeV_z-7.5_16_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio": "events.slcio"
+        }, 
+        "output_files": {
+            "events_filt_readout_recon.slcio": "hpsForward_e-_4.5GeV_z-7.5_0011.slcio"
+        }
+    }, 
+    {
+        "run_number": 10666, 
+        "job_id": 12, 
+        "ecal_hit_ecut": -1.0, 
+        "steering_files": {
+            "recon": "/org/hps/steering/recon/PhysicsRun2019MCRecon.lcsim", 
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigPulse.lcsim"
+        }, 
+        "output_dir": "output/hpsForward_e-_4.5GeV_z-7.5/HPS-PhysicsRun2019-v1-4pt5/recon", 
+        "detector": "HPS-PhysicsRun2019-v1-4pt5", 
+        "input_files": {
+            "/nfs/slac/g/hps_data2/mc/2019/samplingFractionSet/p3/hpsForward_e-_4.5GeV_z-7.5_17_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio": "events.slcio"
+        }, 
+        "output_files": {
+            "events_filt_readout_recon.slcio": "hpsForward_e-_4.5GeV_z-7.5_0012.slcio"
+        }
+    }, 
+    {
+        "run_number": 10666, 
+        "job_id": 13, 
+        "ecal_hit_ecut": -1.0, 
+        "steering_files": {
+            "recon": "/org/hps/steering/recon/PhysicsRun2019MCRecon.lcsim", 
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigPulse.lcsim"
+        }, 
+        "output_dir": "output/hpsForward_e-_4.5GeV_z-7.5/HPS-PhysicsRun2019-v1-4pt5/recon", 
+        "detector": "HPS-PhysicsRun2019-v1-4pt5", 
+        "input_files": {
+            "/nfs/slac/g/hps_data2/mc/2019/samplingFractionSet/p3/hpsForward_e-_4.5GeV_z-7.5_18_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio": "events.slcio"
+        }, 
+        "output_files": {
+            "events_filt_readout_recon.slcio": "hpsForward_e-_4.5GeV_z-7.5_0013.slcio"
+        }
+    }, 
+    {
+        "run_number": 10666, 
+        "job_id": 14, 
+        "ecal_hit_ecut": -1.0, 
+        "steering_files": {
+            "recon": "/org/hps/steering/recon/PhysicsRun2019MCRecon.lcsim", 
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigPulse.lcsim"
+        }, 
+        "output_dir": "output/hpsForward_e-_4.5GeV_z-7.5/HPS-PhysicsRun2019-v1-4pt5/recon", 
+        "detector": "HPS-PhysicsRun2019-v1-4pt5", 
+        "input_files": {
+            "/nfs/slac/g/hps_data2/mc/2019/samplingFractionSet/p3/hpsForward_e-_4.5GeV_z-7.5_19_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio": "events.slcio"
+        }, 
+        "output_files": {
+            "events_filt_readout_recon.slcio": "hpsForward_e-_4.5GeV_z-7.5_0014.slcio"
+        }
+    }
+]

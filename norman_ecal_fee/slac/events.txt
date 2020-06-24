@@ -1,0 +1,14 @@
+/nfs/slac/g/hps_data2/mc/2019/samplingFractionSet/p2/hpsForward_e-_4.5GeV_z-7.5_10_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio
+/nfs/slac/g/hps_data2/mc/2019/samplingFractionSet/p2/hpsForward_e-_4.5GeV_z-7.5_11_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio
+/nfs/slac/g/hps_data2/mc/2019/samplingFractionSet/p2/hpsForward_e-_4.5GeV_z-7.5_6_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio
+/nfs/slac/g/hps_data2/mc/2019/samplingFractionSet/p2/hpsForward_e-_4.5GeV_z-7.5_7_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio
+/nfs/slac/g/hps_data2/mc/2019/samplingFractionSet/p2/hpsForward_e-_4.5GeV_z-7.5_8_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio
+/nfs/slac/g/hps_data2/mc/2019/samplingFractionSet/p2/hpsForward_e-_4.5GeV_z-7.5_9_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio
+/nfs/slac/g/hps_data2/mc/2019/samplingFractionSet/p3/hpsForward_e-_4.5GeV_z-7.5_12_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio
+/nfs/slac/g/hps_data2/mc/2019/samplingFractionSet/p3/hpsForward_e-_4.5GeV_z-7.5_13_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio
+/nfs/slac/g/hps_data2/mc/2019/samplingFractionSet/p3/hpsForward_e-_4.5GeV_z-7.5_14_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio
+/nfs/slac/g/hps_data2/mc/2019/samplingFractionSet/p3/hpsForward_e-_4.5GeV_z-7.5_15_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio
+/nfs/slac/g/hps_data2/mc/2019/samplingFractionSet/p3/hpsForward_e-_4.5GeV_z-7.5_16_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio
+/nfs/slac/g/hps_data2/mc/2019/samplingFractionSet/p3/hpsForward_e-_4.5GeV_z-7.5_17_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio
+/nfs/slac/g/hps_data2/mc/2019/samplingFractionSet/p3/hpsForward_e-_4.5GeV_z-7.5_18_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio
+/nfs/slac/g/hps_data2/mc/2019/samplingFractionSet/p3/hpsForward_e-_4.5GeV_z-7.5_19_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio
