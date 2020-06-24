@@ -1,0 +1,8 @@
+[Job]
+dry_run = False
+
+[JobManager]
+hps_java_bin_jar = /u/scratch/jeremym/hps-java/distribution/target/hps-distribution-4.5-SNAPSHOT-bin.jar
+
+[FilterBunches]
+hps_java_bin_jar = /u/scratch/jeremym/hps-java/distribution/target/hps-distribution-4.5-SNAPSHOT-bin.jar
