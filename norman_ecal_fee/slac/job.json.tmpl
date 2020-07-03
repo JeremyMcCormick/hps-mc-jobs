@@ -2,15 +2,16 @@
     "run_number": ${run_number},
     "detector": "${detector}",
     "ecal_hit_ecut": -1.0,
+    "event_interval": 200,
     "steering_files": {
-        "readout": "/org/hps/steering/readout/PhysicsRun2019TrigPulse.lcsim",
+        "readout": "/u/ey/jeremym/hps/dev/hps-mc-jobs/norman_ecal_fee/slac/PhysicsRun2019TrigPulse.lcsim",
         "recon": "/org/hps/steering/recon/PhysicsRun2019MCRecon.lcsim"
     },
     "input_files": {
         "${events_1}": "events.slcio"
     },
     "output_files": {
-        "events_filt_readout_recon.slcio": "${event_name}_${job_id}.slcio"
+        "events_filt_readout_recon.slcio": "${events_1_basename}_recon.slcio"
     },
-    "output_dir": "output/${event_name}/${detector}/recon"
+    "output_dir": "output/${detector}/recon"
 }
