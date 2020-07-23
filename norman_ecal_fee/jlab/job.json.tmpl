@@ -1,16 +1,23 @@
 {
     "run_number": ${run_number},
     "detector": "${detector}",
-    "ecal_hit_ecut": -1.0,
+    "filter_no_cuts": true,
+    "filter_nevents_read": 50000,
+    "filter_nevents_write": 12500000,
     "steering_files": {
         "readout": "/org/hps/steering/readout/PhysicsRun2019TrigPulse.lcsim",
         "recon": "/org/hps/steering/recon/PhysicsRun2019MCRecon.lcsim"
+    }, 
+    "run_mode": 0,
+    "config_files": {
+        "recon": "recoTuple_cfg.py", 
+        "ana": "anaVtxTuple_cfg.py"
     },
     "input_files": {
         "${events_1}": "events.slcio"
     },
     "output_files": {
-        "events_filt_readout_recon.slcio": "${event_name}_${job_id}.slcio"
+        "ptag:lcio_recon": "recon/lcio/${events_1_basename}_recon.slcio"
     },
-    "output_dir": "output/${event_name}/${detector}/recon"
+    "output_dir": "output"
 }
