@@ -1,6 +1,6 @@
 [Job]
 dry_run = False
-enable_copy_output_files = True
+enable_copy_output_files = False
 enable_copy_input_files = True
 enable_ptags = True
 enable_file_chaining = True
