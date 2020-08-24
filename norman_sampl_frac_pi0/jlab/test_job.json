@@ -1,0 +1,26 @@
+{
+    "job_id": 42,
+    "seed": 1,
+    "detector": "HPS-PhysicsRun2019-v1-4pt5",
+    "run_number": 10666,
+    "filter_no_cuts": true,
+    "event_print_interval": 1000,
+    "steering_files": {
+        "recon": "/org/hps/steering/recon/PhysicsRun2019MCRecon.lcsim",
+        "readout": "/org/hps/steering/readout/PhysicsRun2019TrigPulse.lcsim"
+    },
+    "run_mode": 0,
+    "config_files": {
+        "recon": "recoTuple_cfg.py",
+        "ana": "anaVtxTuple_cfg.py"
+    },
+    "input_files": {
+        "/u/scratch/jeremym/hps-mc-jobs/norman_ecal_fee/jlab/test_events.slcio": "events.slcio"
+    },
+    "output_dir": "output/test",
+    "output_files": {
+        "ptag:filt": "filt.slcio",
+        "ptag:readout": "readout.slcio",
+        "ptag:lcio_recon": "recon.slcio"
+    }
+}

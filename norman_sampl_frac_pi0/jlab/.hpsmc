@@ -1,0 +1,24 @@
+[Job]
+dry_run = False
+enable_copy_output_files = False
+enable_copy_input_files = True
+enable_ptags = True
+enable_file_chaining = True
+delete_existing = True
+ignore_return_codes = True
+job_id_pad = 4
+check_output_files = False
+enable_env_config = False
+
+[JobManager]
+hps_java_bin_jar = /u/scratch/jeremym/hps-java/distribution/target/hps-distribution-4.5-SNAPSHOT-bin.jar
+
+[FilterBunches]
+hps_java_bin_jar = /u/scratch/jeremym/hps-java/distribution/target/hps-distribution-4.5-SNAPSHOT-bin.jar
+
+[LCIOCount]
+lcio_bin_jar = /group/hps/hps_soft/sim/lcio/lcio/target/lcio-2.7.4-SNAPSHOT-bin.jar 
+
+[HPSTR]
+hpstr_install_dir = /group/hps/sw/hpstr/dev/install-centos7-gcc4.8.5
+hpstr_base = /group/hps/sw/hpstr/dev/src

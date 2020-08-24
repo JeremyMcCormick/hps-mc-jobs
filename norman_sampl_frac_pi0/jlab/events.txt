@@ -1,0 +1,6 @@
+/work/hallb/hps/ngraf/physrun2019/samplingFractionMC/sim/pi0/pi0_0.5GeV_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio
+/work/hallb/hps/ngraf/physrun2019/samplingFractionMC/sim/pi0/pi0_1.5GeV_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio
+/work/hallb/hps/ngraf/physrun2019/samplingFractionMC/sim/pi0/pi0_2.5GeV_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio
+/work/hallb/hps/ngraf/physrun2019/samplingFractionMC/sim/pi0/pi0_2GeV_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio
+/work/hallb/hps/ngraf/physrun2019/samplingFractionMC/sim/pi0/pi0_3.5GeV_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio
+/work/hallb/hps/ngraf/physrun2019/samplingFractionMC/sim/pi0/pi0_3GeV_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio

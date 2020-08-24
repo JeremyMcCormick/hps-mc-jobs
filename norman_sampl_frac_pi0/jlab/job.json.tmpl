@@ -1,0 +1,23 @@
+{
+    "job_id": {{ job.job_id }},
+    "seed": {{ job.job_id + 1000000 }},
+    "run_number": {{ job.run_number }},
+    "detector": "{{ job.detector }}",
+    "filter_no_cuts": true,
+    "steering_files": {
+        "readout": "/org/hps/steering/readout/PhysicsRun2019TrigPulse.lcsim",
+        "recon": "/org/hps/steering/recon/PhysicsRun2019MCRecon.lcsim"
+    }, 
+    "run_mode": 0,
+    "config_files": {
+        "recon": "recoTuple_cfg.py", 
+        "ana": "anaVtxTuple_cfg.py"
+    },
+    "input_files": {
+        "{{ job.input_files['events'][0] }}": "events.slcio"
+    },
+    "output_files": {
+        "ptag:lcio_recon": "recon/lcio/{{ job.input_files['events'][0] | basename }}_recon.slcio"
+    },
+    "output_dir": "output"
+}

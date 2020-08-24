@@ -1,0 +1,140 @@
+[
+    {
+        "steering_files": {
+            "recon": "/org/hps/steering/recon/PhysicsRun2019MCRecon.lcsim",
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigPulse.lcsim"
+        },
+        "filter_no_cuts": true,
+        "run_number": 10666,
+        "seed": 1000001,
+        "config_files": {
+            "recon": "recoTuple_cfg.py",
+            "ana": "anaVtxTuple_cfg.py"
+        },
+        "input_files": {
+            "/work/hallb/hps/ngraf/physrun2019/samplingFractionMC/sim/pi0/pi0_0.5GeV_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio": "events.slcio"
+        },
+        "job_id": 1,
+        "run_mode": 0,
+        "detector": "HPS-PhysicsRun2019-v2-4pt5",
+        "output_dir": "output",
+        "output_files": {
+            "ptag:lcio_recon": "recon/lcio/pi0_0.5GeV_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5_recon.slcio"
+        }
+    },
+    {
+        "steering_files": {
+            "recon": "/org/hps/steering/recon/PhysicsRun2019MCRecon.lcsim",
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigPulse.lcsim"
+        },
+        "filter_no_cuts": true,
+        "run_number": 10666,
+        "seed": 1000002,
+        "config_files": {
+            "recon": "recoTuple_cfg.py",
+            "ana": "anaVtxTuple_cfg.py"
+        },
+        "input_files": {
+            "/work/hallb/hps/ngraf/physrun2019/samplingFractionMC/sim/pi0/pi0_1.5GeV_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio": "events.slcio"
+        },
+        "job_id": 2,
+        "run_mode": 0,
+        "detector": "HPS-PhysicsRun2019-v2-4pt5",
+        "output_dir": "output",
+        "output_files": {
+            "ptag:lcio_recon": "recon/lcio/pi0_1.5GeV_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5_recon.slcio"
+        }
+    },
+    {
+        "steering_files": {
+            "recon": "/org/hps/steering/recon/PhysicsRun2019MCRecon.lcsim",
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigPulse.lcsim"
+        },
+        "filter_no_cuts": true,
+        "run_number": 10666,
+        "seed": 1000003,
+        "config_files": {
+            "recon": "recoTuple_cfg.py",
+            "ana": "anaVtxTuple_cfg.py"
+        },
+        "input_files": {
+            "/work/hallb/hps/ngraf/physrun2019/samplingFractionMC/sim/pi0/pi0_2.5GeV_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio": "events.slcio"
+        },
+        "job_id": 3,
+        "run_mode": 0,
+        "detector": "HPS-PhysicsRun2019-v2-4pt5",
+        "output_dir": "output",
+        "output_files": {
+            "ptag:lcio_recon": "recon/lcio/pi0_2.5GeV_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5_recon.slcio"
+        }
+    },
+    {
+        "steering_files": {
+            "recon": "/org/hps/steering/recon/PhysicsRun2019MCRecon.lcsim",
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigPulse.lcsim"
+        },
+        "filter_no_cuts": true,
+        "run_number": 10666,
+        "seed": 1000004,
+        "config_files": {
+            "recon": "recoTuple_cfg.py",
+            "ana": "anaVtxTuple_cfg.py"
+        },
+        "input_files": {
+            "/work/hallb/hps/ngraf/physrun2019/samplingFractionMC/sim/pi0/pi0_2GeV_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio": "events.slcio"
+        },
+        "job_id": 4,
+        "run_mode": 0,
+        "detector": "HPS-PhysicsRun2019-v2-4pt5",
+        "output_dir": "output",
+        "output_files": {
+            "ptag:lcio_recon": "recon/lcio/pi0_2GeV_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5_recon.slcio"
+        }
+    },
+    {
+        "steering_files": {
+            "recon": "/org/hps/steering/recon/PhysicsRun2019MCRecon.lcsim",
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigPulse.lcsim"
+        },
+        "filter_no_cuts": true,
+        "run_number": 10666,
+        "seed": 1000005,
+        "config_files": {
+            "recon": "recoTuple_cfg.py",
+            "ana": "anaVtxTuple_cfg.py"
+        },
+        "input_files": {
+            "/work/hallb/hps/ngraf/physrun2019/samplingFractionMC/sim/pi0/pi0_3.5GeV_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio": "events.slcio"
+        },
+        "job_id": 5,
+        "run_mode": 0,
+        "detector": "HPS-PhysicsRun2019-v2-4pt5",
+        "output_dir": "output",
+        "output_files": {
+            "ptag:lcio_recon": "recon/lcio/pi0_3.5GeV_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5_recon.slcio"
+        }
+    },
+    {
+        "steering_files": {
+            "recon": "/org/hps/steering/recon/PhysicsRun2019MCRecon.lcsim",
+            "readout": "/org/hps/steering/readout/PhysicsRun2019TrigPulse.lcsim"
+        },
+        "filter_no_cuts": true,
+        "run_number": 10666,
+        "seed": 1000006,
+        "config_files": {
+            "recon": "recoTuple_cfg.py",
+            "ana": "anaVtxTuple_cfg.py"
+        },
+        "input_files": {
+            "/work/hallb/hps/ngraf/physrun2019/samplingFractionMC/sim/pi0/pi0_3GeV_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5.slcio": "events.slcio"
+        },
+        "job_id": 6,
+        "run_mode": 0,
+        "detector": "HPS-PhysicsRun2019-v2-4pt5",
+        "output_dir": "output",
+        "output_files": {
+            "ptag:lcio_recon": "recon/lcio/pi0_3GeV_SLIC-v06-00-01_QGSP_BERT_HPS-PhysicsRun2019-v2-4pt5_recon.slcio"
+        }
+    }
+]
