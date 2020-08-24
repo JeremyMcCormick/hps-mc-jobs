@@ -1,1 +1,0 @@
-/nfs/slac/g/hps/sw/hps-mc/dev/install-centos7-gcc4.8.5/bin/hps-mc-env.sh
